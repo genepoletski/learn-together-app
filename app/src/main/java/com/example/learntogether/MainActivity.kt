@@ -59,7 +59,7 @@ fun Title(modifier: Modifier = Modifier) {
 fun Body(modifier: Modifier = Modifier) {
     Column(modifier) {
         Text(
-            text = stringResource(R.string.aticle_paragraph_1),
+            text = stringResource(R.string.article_paragraph_1),
             textAlign = TextAlign.Justify
         )
         Text(
